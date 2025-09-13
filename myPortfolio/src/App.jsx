@@ -13,7 +13,7 @@ function App() {
 
   return (
     <Router>
-      <div className="min-h-screen bg-amber-200 text-gray-900">
+      <div className="min-h-screen bg-[#529f81] text-gray-900">
         <Navbar />
         <main className="max-w-5xl mx-auto px-4 py-12">
           <Routes>
