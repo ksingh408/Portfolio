@@ -24,7 +24,7 @@ export default function Projects() {
       title: 'Chat Web Application',
       description:
         'A real-time Chat Application using React, Node.js, Socket.io and MongoDB, featuring user authentication.',
-      link: 'https://chat-app-nine-jet-64.vercel.app/',
+      link: 'https://chat-app-m1yw.vercel.app/',
     },
   ];
 
